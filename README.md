@@ -9,7 +9,7 @@ Luego, me inscribí en la Universidad Nacional de Hurlingham (UNAHUR) en la carr
 
 Mi meta es poder trabajar desde casa con un sueldo decente, y espero algún día tener los conocimientos necesarios para trabajar en grandes proyectos.
 
-
+![Foto Gaspar](./assets/FotoGaspar.jpeg)
 
 
 ## Algunos datos míos
